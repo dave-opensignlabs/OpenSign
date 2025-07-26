@@ -150,7 +150,7 @@ Once the email is received, the signer can click the 'Sign Here' button. This wi
 
 After verification, the signer will be redirected to the document signing page, where he can view the document received for signing. To sign, the signer simply clicks on the signature widget, which allows them to draw, upload a digitally scanned signature, or type the signature. 
 
-After filling out all assigned widgets, click the 'Finish' button. Once the document is finished,.
+After filling out all assigned widgets, click the 'Finish' button. Once the document is finished:
    - The signer has the option of downloading or printing the signed document. He will also obtain the completion certificate if he is the final signer.  
 
    - If there are more than one signer, the document will be immediately sent to the next signer. Once all signers have finished their signatures, they can download and print the signed document as well as the completion certificate.
