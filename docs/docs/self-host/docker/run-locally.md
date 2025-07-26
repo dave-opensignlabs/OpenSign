@@ -17,7 +17,7 @@ Create a Docker Hub account if you don't already have one.
 
 Make sure Docker is running in the background before proceeding.
 
-**Warning:** The commands below should only be used when installing OpenSign for the first time. You may loose your settings as this will overwrite .env & caddy files.
+**Warning:** The commands below should only be used when installing OpenSign for the first time. You may lose your settings as this will overwrite `.env` and Caddy files.
 
 ### Running on a custom domain
 Command for linux/MacOS 
@@ -40,7 +40,7 @@ Make sure to replace the host URL with your subdomain where OpenSign will be acc
 You will also need to point the subdomain to the server executing these commands by adding the correct A record to your DNS settings.
   
 ### Running locally
-If instead want to run locally try out below commands.
+If you instead want to run locally, try out the commands below.
   
 Command for linux/MacOS (localhost)
 ```
